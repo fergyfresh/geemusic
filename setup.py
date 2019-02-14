@@ -1,5 +1,4 @@
 import setuptools
-from packagename.version import Version
 
 def parse_requirements(filename):
     """ load requirements from a pip requirements file """
